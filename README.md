@@ -1,2 +1,2 @@
-# fFirst Steps Git/Github
+# First Steps Git/Github
 Primeiros passsos com github
